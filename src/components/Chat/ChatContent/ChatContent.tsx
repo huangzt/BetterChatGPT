@@ -96,7 +96,7 @@ const ChatContent = () => {
             {useStore.getState().generating || (
               <>
                 <DownloadChat saveRef={saveRef} />
-                <ShareGPT />
+                {/*<ShareGPT />*/}
                 <CloneChat />
               </>
             )}
