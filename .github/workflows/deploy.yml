@@ -33,12 +33,14 @@ jobs:
 
       - name: Build website
         run: yarn build
+        env:
+          VITE_CUSTOM_API_ENDPOINT: ${{ vars.VITE_CUSTOM_API_ENDPOINT }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: './dist'
-  
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
