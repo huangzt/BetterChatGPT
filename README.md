@@ -1,4 +1,5 @@
 # 可接反向代理接口，可看此项目：[huangzt/ChatGPT-to-API](https://github.com/huangzt/ChatGPT-to-API)
+# 自建接官方api接口的，此项目增加代理配置：[huangzt/ChatGPTAPIFree](https://github.com/huangzt/ChatGPTAPIFree)
 ## fork自大老的：[acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API)
 
 <h1 align="center"><b>Better ChatGPT</b></h1>
