@@ -103,6 +103,13 @@ const ApiMenu = ({
             />
           </p>
 
+          <p>
+            如果 API端点 是反向代理的，如我提供的：<br/>
+            https://chatgptapi-accesstoken-hzt.up.railway.app/v1/chat/completions<br/>
+            1、API 密钥需要填入accessToken，先登录：<a className='link' href="https://chat.openai.com" target="_blank">https://chat.openai.com</a><br/>
+            2、再获取accessToken：<a className='link' href="https://chat.openai.com/api/auth/session" target="_blank">https://chat.openai.com/api/auth/session</a>
+          </p>
+
           <p>{t('securityMessage', { ns: 'api' })}</p>
 
           <p>{t('apiEndpoint.description', { ns: 'api' })}</p>
