@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: 'pages'
   cancel-in-progress: true
 
 jobs:
@@ -34,7 +34,7 @@ jobs:
       - name: Build website
         run: yarn build
         env:
-          VITE_CUSTOM_API_ENDPOINT: ${{ vars.VITE_CUSTOM_API_ENDPOINT }}
+          VITE_GOOGLE_CLIENT_ID: ${{ secrets.GCLIENT }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
