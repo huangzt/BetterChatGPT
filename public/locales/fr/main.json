@@ -24,6 +24,7 @@
   "setting": "Paramètres",
   "image": "Image",
   "autoTitle": "Générer le titre automatiquement",
+  "advancedMode": "Mode avancé",
   "prompt": "Incitation",
   "promptLibrary": "Bibliothèque de prompt",
   "name": "Nom",
@@ -37,5 +38,5 @@
   "cloneChat": "Cloner la Conversation",
   "cloned": "Clonée",
   "enterToSubmit": "Entrée pour soumettre",
-  "submitPlaceholder": "Saisissez un message ou sélectionnez [/] pour un prompt prédéfini..."
+  "submitPlaceholder": "Saisissez un message ou cliquez sur [/] pour des prompts..."
 }
