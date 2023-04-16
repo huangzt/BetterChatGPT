@@ -24,6 +24,7 @@
   "setting": "設定",
   "image": "圖片",
   "autoTitle": "自動生成標題",
+  "advancedMode": "高級模式",
   "prompt": "提示詞",
   "promptLibrary": "提示詞資料庫",
   "name": "名稱",
@@ -37,5 +38,5 @@
   "cloneChat": "創建聊天副本",
   "cloned": "已創建副本",
   "enterToSubmit": "按回車鍵提交",
-  "submitPlaceholder": "Type a message or select [/] for a predefined prompt..."
+  "submitPlaceholder": "Type a message or click [/] for prompts..."
 }

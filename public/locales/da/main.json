@@ -24,6 +24,7 @@
   "setting": "Indstillinger",
   "image": "Billede",
   "autoTitle": "Auto generer titel",
+  "advancedMode": "Avanceret tilstand",
   "prompt": "Opgave",
   "promptLibrary": "Opgavebibliotek",
   "name": "Navn",
@@ -37,5 +38,5 @@
   "cloneChat": "Klon Chat",
   "cloned": "Klonet",
   "enterToSubmit": "Tryk Enter for at sende",
-  "submitPlaceholder": "Type a message or select [/] for a predefined prompt..."
+  "submitPlaceholder": "Type a message or click [/] for prompts..."
 }
