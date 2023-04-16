@@ -62,6 +62,7 @@
     "remark-gfm": "^3.0.1",
     "remark-math": "^5.1.1",
     "uuid": "^9.0.0",
+    "yarn": "^1.22.19",
     "zustand": "^4.3.6"
   },
   "devDependencies": {
