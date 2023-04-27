@@ -30,6 +30,9 @@
   "promptLibrary": "Pustaka Arahan",
   "name": "Nama",
   "search": "Cari",
+  "total": "Jumlah",
+  "resetCost": "Reset Kos",
+  "countTotalTokens": "Kira jumlah token keseluruhan",
   "morePrompts": "Anda boleh mencari lebih banyak arahan di sini: ",
   "postOnShareGPT": {
     "title": "Siarkan di ShareGPT",
@@ -39,5 +42,5 @@
   "cloneChat": "Buat salinan perbualan ini",
   "cloned": "Dicipta",
   "enterToSubmit": "Tekan Enter untuk hantar",
-  "submitPlaceholder": "Type a message or click [/] for prompts..."
+  "submitPlaceholder": "Taip mesej atau klik [/] untuk arahan..."
 }

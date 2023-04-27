@@ -30,6 +30,9 @@
   "promptLibrary": "提示詞資料庫",
   "name": "名稱",
   "search": "搜尋",
+  "total": "合計",
+  "resetCost": "重置費用",
+  "countTotalTokens": "計算總 Token 數",
   "morePrompts": "更多提示詞請點選：",
   "postOnShareGPT": {
     "title": "發佈至 ShareGPT",
@@ -39,5 +42,5 @@
   "cloneChat": "創建聊天副本",
   "cloned": "已創建副本",
   "enterToSubmit": "按回車鍵提交",
-  "submitPlaceholder": "Type a message or click [/] for prompts..."
+  "submitPlaceholder": "輸入消息或點擊 [/] 以使用提示詞…"
 }

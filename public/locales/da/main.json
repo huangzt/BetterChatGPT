@@ -30,6 +30,9 @@
   "promptLibrary": "Opgavebibliotek",
   "name": "Navn",
   "search": "Søg",
+  "total": "Total",
+  "resetCost": "Nulstil Omkostninger",
+  "countTotalTokens": "Tæl totale tokens",
   "morePrompts": "Du kan finde flere opgaver her: ",
   "postOnShareGPT": {
     "title": "Indlæg på ShareGPT",
@@ -39,5 +42,5 @@
   "cloneChat": "Klon Chat",
   "cloned": "Klonet",
   "enterToSubmit": "Tryk Enter for at sende",
-  "submitPlaceholder": "Type a message or click [/] for prompts..."
+  "submitPlaceholder": "Skriv en besked eller klik på [/] for opgave..."
 }

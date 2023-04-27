@@ -30,6 +30,9 @@
   "promptLibrary": "プロンプトライブラリ",
   "name": "名前",
   "search": "検索",
+  "total": "合計",
+  "resetCost": "コストをリセットする",
+  "countTotalTokens": "トークンの合計数をカウント",
   "morePrompts": "ここでさらにプロンプトを見つけることができます：",
   "postOnShareGPT": {
     "title": "ShareGPTに投稿",
@@ -39,5 +42,5 @@
   "cloneChat": "チャットのコピーを作成",
   "cloned": "完了しました",
   "enterToSubmit": "Enterキーを押して送信",
-  "submitPlaceholder": "Type a message or click [/] for prompts..."
+  "submitPlaceholder": "メッセージを入力するか、[/] をクリックしてプロンプトを表示します..."
 }
